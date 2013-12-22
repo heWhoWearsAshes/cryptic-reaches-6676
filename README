@@ -1,0 +1,2 @@
+This is now the repo for the revolve c++ project using the libnfc. We'll develop the back-end stuff and the wrappers
+ for libnfc's api, and the database api. 
